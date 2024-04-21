@@ -3,7 +3,9 @@ Projeto desenvolvido para a Universidade São Judas Tadeu.
 
 ### Tema
 O projeto consiste na criação de um cenário empresarial fictício é necessário definir quais softwares são necessários em cada área, justificando essa escolha, e também as principais tarefas, informações ou produtos da empresa, com justificativa.
-Os grupos devem entregar uma breve descrição da empresa, especificar os equipamentos necessários para cada área (considerando todos os aspectos de hardware aprendidos em aula e os softwares do cenário), indicar os sistemas operacionais a serem utilizados nos equipamentos, justificando essa escolha, e também mencionar um equipamento de IoT que a empresa poderá utilizar. Além disso, devem desenvolver pelo menos um projeto de IoT, podendo ser em simulador ou hardware real. O drive onde todos os arquivos do projeto estão [![Drive do Projeto](https://img.shields.io/badge/Drive%20do%20Projeto-00c853?style=for-the-badge)](https://drive.google.com/drive/u/1/folders/1sQhcJMPJrVCyY1lw9nLQC1Zus4jiaTlD)
+Os grupos devem entregar uma breve descrição da empresa, especificar os equipamentos necessários para cada área (considerando todos os aspectos de hardware aprendidos em aula e os softwares do cenário), indicar os sistemas operacionais a serem utilizados nos equipamentos, justificando essa escolha, e também mencionar um equipamento de IoT que a empresa poderá utilizar. Além disso, devem desenvolver pelo menos um projeto de IoT, podendo ser em simulador ou hardware real. O drive onde todos os arquivos do projeto estão
+
+[![Drive do Projeto](https://img.shields.io/badge/Drive%20do%20Projeto-00c853?style=for-the-badge)](https://drive.google.com/drive/u/1/folders/1sQhcJMPJrVCyY1lw9nLQC1Zus4jiaTlD)
 
 
 ### Sobre o controlador de temperatura:
